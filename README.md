@@ -3,7 +3,8 @@
 This To do list web app in React was done using functional components because they are much simpler
 than the class components, they are more readable and easy to understand.  
 
-The To do list is made as a form because it's functionality is similar to fill a regular form in a web page.
+The To do list is made as a form because it's functionality is similar to fill a regular form in a web page,
+so you copy the to do you have to complete in the input field and click in the button Add task, and you will see the task in the list. When the task is created, you have the option to edit it or to delet it when you complete that task or when you dont need it anymore, and also you can use the checkbox to mark it as completed.
 
 The information is being saved in the local storage of the web browser, which saves the information
 of the actual session.

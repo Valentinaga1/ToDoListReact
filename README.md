@@ -1,3 +1,16 @@
+# To Do List in React
+
+This To do list web app in React was done using functional components because they are much simpler
+than the class components, they are more readable and easy to understand.  
+
+The To do list is made as a form because it's functionality is similar to fill a regular form in a web page.
+
+The information is being saved in the local storage of the web browser, which saves the information
+of the actual session.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
